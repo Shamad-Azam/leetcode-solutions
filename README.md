@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
