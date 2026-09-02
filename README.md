@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
