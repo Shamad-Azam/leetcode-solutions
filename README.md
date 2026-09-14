@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shamad-Azam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
